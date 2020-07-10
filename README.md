@@ -1,4 +1,4 @@
-### Hi there
+### Hi there 👋
 
 I'm a software consultant and developer concentrating on web APIs and applications.
 
